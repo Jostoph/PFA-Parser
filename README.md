@@ -17,7 +17,7 @@
 
 ## Fichiers Modules 
 
-* `parser.hs` (module Main)
+* `parser.hs` (module Parser)
 
 ## Exemples d'exécution
 
